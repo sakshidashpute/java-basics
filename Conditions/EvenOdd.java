@@ -1,4 +1,4 @@
-package 02_Conditions;
+package Conditions;
 import java.util.Scanner;
 
 public class EvenOdd {

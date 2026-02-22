@@ -1,4 +1,4 @@
-package 02_Conditions;
+package Conditions;
 
 public class LargestNumber {
     public static void main(String[] args) {
