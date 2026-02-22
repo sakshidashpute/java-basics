@@ -1,5 +1,3 @@
-package Conditions;
-
 public class LargestNumber {
     public static void main(String[] args) {
         int a = 10 , b = 20 ,c = 30;
@@ -14,5 +12,6 @@ public class LargestNumber {
             System.out.println("Largest Number:" + c);
         }
     }
+    sc.close();
     
 }

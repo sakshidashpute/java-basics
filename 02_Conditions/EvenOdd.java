@@ -1,4 +1,3 @@
-package Conditions;
 import java.util.Scanner;
 
 public class EvenOdd {
@@ -14,5 +13,5 @@ public class EvenOdd {
             System.out.println("Od Number");
         }
     }
-    
+    sc.close();
 }
